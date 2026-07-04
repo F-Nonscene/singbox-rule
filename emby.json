@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bangumi.ca",
+        "jingzhe.pro",
+        "emby.my".
+        "embyplus.org"
+        
+      ]
+    },
+    {
+      "domain": [
+        "link00.okemby.org",
+        "yp.lyezi.cc",
+        "media.nijigem.by",
+        "public.shrekmedia.org"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "emby"
+      ]
+    }
+  ]
+}
